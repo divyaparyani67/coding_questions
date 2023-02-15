@@ -1,0 +1,57 @@
+Q. 1 find the max elements of a nested array[1,56,78,[10,24,[22,11, 67,[55]]] , 100 ,[11]]
+
+Q. 2 update parent value from child components using callback.
+
+Q. 3 sort array of objects
+
+Q. 4 create new array of objects after performing arithmetic operations on a given array of objects
+
+Q. 5 Remove duplicates from an array without using Set and only by using filter and vanilla javascript.
+
+Q. 6 write a function even loop
+
+Q. 7 write example function for curring
+
+Q. 8 write an example for map
+
+Q. 9 Return all elements greater than two from the given array
+
+Q. 10 Get the index of particular element present in the array.
+
+Q. 11 remove a element from an array whose name field has value "XYZ"
+
+Q. 12 Given a nested array, find the sum of elements
+
+Q. 13 Fibonacci Sequence
+
+Q. 14 Given a string where normal words are accepted but numbers/symbols not accepted. Ex: 'cat and !dog69'
+
+Q. 15 Sort an array using a sorting algo in ascending and descending order.
+
+Q. 16 Given an array find 2 elements where their sum of  is equal to 20.
+
+Q. 17 setTimeout function
+
+Q. 18 Given a string, determine if it is a palindrome. While checking for a palindrome, you have to ignore spaces, case, and all special characters; i.e. consider only alphanumeric characters.
+
+Check the sample test case for reference.
+Return 0 / 1 ( 0 for false, 1 for true ) for this problem
+
+Q. 19 Balanced parenthesis Given a string A consisting only of '(' and ')'.
+
+You need to find whether parantheses in A is balanced or not ,if it is balanced then return 1 else return 0.
+
+Q. 20 Frequency of Characters Given a string A, find the frequency of all the characters in it.
+
+Q. 21 Amazing Subarrays You are given a string A, and you have to find all the amazing substrings of A.
+An amazing Substring is one that starts with a vowel (a, e, i, o, u, A, E, I, O, U).
+Note: Take the mod of the answer with 10003.
+
+Q. 22 Product of Digits Given an integer A.
+Find the product of all of it's digits.
+
+Q. 23 Is Rectangle? Given four positive integers A, B, C, D, determine if there’s a rectangle such that the lengths of its sides are A, B, C and D (in any order).
+
+If any such rectangle exist return 1 else return 0.
+
+Q. 24
