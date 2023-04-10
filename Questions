@@ -54,4 +54,5 @@ Q. 23 Is Rectangle? Given four positive integers A, B, C, D, determine if thereâ
 
 If any such rectangle exist return 1 else return 0.
 
-Q. 24
+Q. 24. arrange all positive numbers os an array alternatively
+
