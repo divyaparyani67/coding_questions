@@ -1,19 +1,19 @@
-Q. we have to write a simple function in JavaScript that takes in the following array of Numbers (nested to any level) −
+// Q. we have to write a simple function in JavaScript that takes in the following array of Numbers (nested to any level) −
 
-const arr = [
-   15, 24,
-   [
-       29, 85, 56,
-       [
-           36, 14, 6, 98, 34, 52
-       ],
-       22
-   ], 87, 60
-];
-and return the greatest number present in the array.
+// const arr = [
+//    15, 24,
+//    [
+//        29, 85, 56,
+//        [
+//            36, 14, 6, 98, 34, 52
+//        ],
+//        22
+//    ], 87, 60
+// ];
+// and return the greatest number present in the array.
 
 
-Ans. const arr = [
+ const arr = [
    34, 65, 67,
       [
          43, 76, 87, 23, 56, 7,

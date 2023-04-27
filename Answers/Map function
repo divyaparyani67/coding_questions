@@ -17,9 +17,9 @@ var map2 = new Map([
   
 console.log("Map2");
 console.log(map2);
-Output: 
+// Output: 
 
-Map1
-Map(3) {1 => 2, 2 => 3, 4 => 5}
-Map2
-Map(3) {'firstname' => 'sumit', 'lastname' => 'ghosh', 'website' => 'geeksforgeeks'}
+// Map1
+// Map(3) {1 => 2, 2 => 3, 4 => 5}
+// Map2
+// Map(3) {'firstname' => 'sumit', 'lastname' => 'ghosh', 'website' => 'geeksforgeeks'}

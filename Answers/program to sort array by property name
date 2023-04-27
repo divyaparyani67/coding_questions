@@ -16,7 +16,7 @@ function compareName(a, b) {
     return comparison;
 }
 
-const students = [{name: 'Sara', age:24},{name: 'John', age:24}, {name: 'Jack', age:25}];
+const student = [{name: 'Sara', age:24},{name: 'John', age:24}, {name: 'Jack', age:25}];
 
 console.log(students.sort(compareName));
 
