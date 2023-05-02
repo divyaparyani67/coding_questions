@@ -13,12 +13,13 @@ function countString(str, letter) {
   return count;
 }
 
+console.log(countString("Divya", "a"));
+
 // take input from the user
-const string = prompt("Enter a string: ");
-const letterToCheck = prompt("Enter a letter to check: ");
+//const string = prompt("Enter a string: ");
+//const letterToCheck = prompt("Enter a letter to check: ");
 
 //passing parameters and calling the function
-const result = countString(string, letterToCheck);
+//const result = countString(str, letter);
 
 // displaying the result
-console.log(result);
