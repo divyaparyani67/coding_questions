@@ -1,10 +1,13 @@
 var twoSum = function(nums, target) {
 
-   for (let i = 0; i < nums.length; i++){
-       for (let j = 1; j < nums.length; i++) {
-           if ( nums[i] + [j] === target){
-               return [i,j]
-           }
+    var hash = {}
+    var len = nums.length;
+
+   for (var i = 0; i < nums.length; i++){
+           if ( nums[i] in hash)
+           return [hash[nums[i]], i] 
+           hash[target -nums[i]] = i 
        }
-   }
+       return [-1, -1]
+   
 };
